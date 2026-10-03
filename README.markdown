@@ -1,74 +1,62 @@
-# Hello, I'm Picasso! 👋
+<a href="https://www.linkedin.com/in/pavel-konchakov">
+  <img src="assets/hero.png" width="100%" alt="Pavel Konchakov. Data and AI, Python, Munich. B.Sc. Information Systems at the Technical University of Munich. Open to Working Student roles.">
+</a>
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast based in Germany, diving into AI, web development, robotics, and environmental projects.
+<br>
 
----
+I study **Information Systems (B.Sc. Wirtschaftsinformatik) at TUM** and live in Munich. Most of what I build is in **Python** and sits somewhere between data and AI: text analysis, data pipelines, bots that automate routine work. Before TUM I completed the TUDIAS Studienkolleg (W-Kurs, final grade 1.6, German C1).
 
-## 🚀 About Me
-- 🌍 **Location**: Germany
-- 📫 **Contact**: 
-  - Email: [ar.picassopablo@gmail.com](mailto:ar.picassopablo@gmail.com)
-  - Telegram: [@amipicasso](https://t.me/amipicasso)
-- 🌱 **Currently Learning**: Go
-- ⚡ **Interests**: Artificial Intelligence, Web Development, Robotics, Ecology
+I am looking for a **Working Student or internship position in Munich**.
 
----
+<br>
 
-## 🛠️ My Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+## Featured projects
 
-- **Frameworks & Tools**: Tilda, Figma
-- **Software**: MS Word, Excel, Adobe Photoshop
-- **Languages**: 
-  - Russian (Native)
-  - English (B1.2)
-  - German (B1, certified)
+<a href="https://github.com/ArPicasso/Sirius_AI_2024">
+  <img src="assets/project-sirius-2024.png" width="100%" alt="Sirius.AI Spring 2024: Review Analysis Tool">
+</a>
 
----
+Collects bank customer reviews from two sites, scores sentiment with a locally hosted LLM and groups the reviews into ten topics with TF-IDF and KMeans, exported as an HTML report with word clouds.<br>
+**Role** team of four · **Stack** Python, pandas, scikit-learn, NLTK, Selenium, BeautifulSoup · [Repository](https://github.com/ArPicasso/Sirius_AI_2024)
 
-## 💻 My Projects
-- **CodewarsGoSolutions**: Solving coding challenges on CodeWars using Go to sharpen my programming skills.
-- **Bez Pokryshek 71**: Developed a website for an environmental project focused on tire recycling. Winner of a regional competition.
-- **Sirius AI Program**: Built an AI system for disease prediction and created its website. Served as team spokesperson.
-- **Other Projects**: Contributed to ecological initiatives, including plastic cap collection and theater performances for students with disabilities.
+<br>
 
----
+<a href="https://github.com/ArPicasso/Sirius_AI_2023">
+  <img src="assets/project-sirius-2023.png" width="100%" alt="Sirius.AI 2023: Medical Triage Data">
+</a>
 
-## 🏆 Achievements
-- 🎖️ **Winner**, "Bolschije Wysowy" project in AI/Computer Science
-- 🎖️ **2nd Stage Winner**, Sirius AI Program (December 2023)
-- 🎖️ **Winner**, Regional Robotics Olympiad
-- 🥇 **School Olympiads**: Russian, Mathematics, Computer Science, Sports
-- 🎤 **School Representative**: Organized school events and represented student interests at two schools
-- 🌱 **Environmental Projects**: Led initiatives like plastic cap collection and "Bez Pokryshek 71"
-- 📢 **Conference Presentations**: Spoke at city and regional conferences on education, ecology, and IT
-- 📜 **Certified**: Completed Python course on Coursera
+Prototype of a medical predictive service: a patient describes complaints in free text and gets routed to the right specialist. The repository holds the data study of 12,765 visit records and the feature engineering on the complaints column.<br>
+**Role** team captain · **Stack** Python, pandas, NumPy, pymorphy2, Jupyter · [Repository](https://github.com/ArPicasso/Sirius_AI_2023)
 
----
+<br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArPicasso&show_icons=true&theme=radical" alt="Picasso's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArPicasso&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<a href="https://github.com/ArPicasso/bogdanov">
+  <img src="assets/project-rhl.png" width="100%" alt="RHL Match Centre: Telegram Mini App">
+</a>
 
----
+Telegram Mini App and reminder bot for a Russian U21 hockey league: schedule, results, standings and player stats. League data is rebuilt every hour by GitHub Actions and served as a static app from GitHub Pages.<br>
+**Role** product and architecture decisions, built with Claude Code as coding agent · **Stack** Python, aiogram 3, vanilla JS, GitHub Actions · [Repository](https://github.com/ArPicasso/bogdanov) · [Live app](https://arpicasso.github.io/bogdanov/)
 
-## 📬 Connect with Me
-<p align="center">
-  <a href="mailto:ar.picassopablo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://t.me/amipicasso">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<br>
 
----
+<a href="https://bezpokrishek.tilda.ws">
+  <img src="assets/project-bez-pokryshek.png" width="100%" alt="Bez Pokryshek 71: information site for a tyre-recycling campaign">
+</a>
 
-⭐ **Star my repositories if you find them inspiring!**  
-Happy coding! 🚀
+Information website for an environmental campaign on tyre recycling, a volunteering project from 2024.<br>
+**Role** built the site · **Stack** Tilda · [bezpokrishek.tilda.ws](https://bezpokrishek.tilda.ws)
+
+<br>
+
+## Tech stack
+
+| | |
+|:--|:--|
+| **Data & AI** | Python · pandas · NumPy · scikit-learn · NLTK · Jupyter |
+| **Backend & automation** | FastAPI · aiogram · Playwright · Selenium · GitHub Actions |
+| **Web** | TypeScript · Next.js · Tailwind CSS |
+| **Learning now** | Java · Go |
+
+## Contact
+
+[LinkedIn: pavel-konchakov](https://www.linkedin.com/in/pavel-konchakov)
