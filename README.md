@@ -50,12 +50,10 @@ Information website for an environmental campaign on tyre recycling, a volunteer
 
 ## Tech stack
 
-| | |
-|:--|:--|
-| **Data & AI** | Python · pandas · NumPy · scikit-learn · NLTK · Jupyter |
-| **Backend & automation** | FastAPI · aiogram · Playwright · Selenium · GitHub Actions |
-| **Web** | TypeScript · Next.js · Tailwind CSS |
-| **Learning now** | Java · Go |
+**Data & AI** &nbsp; Python · pandas · NumPy · scikit-learn · NLTK · Jupyter<br>
+**Backend & automation** &nbsp; FastAPI · aiogram · Playwright · Selenium · GitHub Actions<br>
+**Web** &nbsp; TypeScript · Next.js · Tailwind CSS<br>
+**Learning now** &nbsp; Java · Go
 
 ## Contact
 
